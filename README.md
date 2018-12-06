@@ -11,5 +11,5 @@ Collection of the Book related to AI &amp; ML
 <br>
 <a href = https://github.com/jinglebo/Seminar-Materials> 数据科学研讨会记录 </a>
 <br>
-<a herf = https://github.com/jinglebo/pdf> 数据科学方向 课件&资料 </a>
+<a href = https://github.com/jinglebo/pdf> 数据科学方向 课件&资料 </a>
 <br>
