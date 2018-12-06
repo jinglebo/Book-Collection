@@ -15,3 +15,5 @@ Collection of the Book related to AI &amp; ML
 <br>
 <a href = https://github.com/ECNUdase/Seminar-Deep-Learning> 《Deep Learning》阅读讨论班 </a>
 <br>
+<a href = https://github.com/exacity/deeplearningbook-chinese> 《Deep Learning》中文翻译版 </a>
+<br>
