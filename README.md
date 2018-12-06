@@ -1,7 +1,7 @@
 # Book-Collection
 Collection of the Book related to AI &amp; ML
 
-<h1>机器学习,数据分析相关资料及书籍</h1>
+<h2>机器学习,数据分析相关资料及书籍</h2>
 
 <a href = https://github.com/fengdu78/deeplearning_ai_books> 吴恩达老师深度学习笔记 </a>
 <br>
@@ -12,4 +12,6 @@ Collection of the Book related to AI &amp; ML
 <a href = https://github.com/ECNUdase/Seminar-Materials> 数据科学研讨会记录 </a>
 <br>
 <a href = https://github.com/ECNUdase/pdf> 数据科学方向 课件&资料 </a>
+<br>
+<a href = https://github.com/ECNUdase/Seminar-Deep-Learning> 《Deep Learning》阅读讨论班 </a>
 <br>
